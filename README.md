@@ -10,7 +10,7 @@ I have 2 years of experience in web development. I can do:
 - Chat bots: Telegram / Discord / Web Widgets
  -    Web scraping and data mining: creating fast and multi-threaded/asynchronous crawlers that parse emails(Gmail, Yahoo) and sites (Amazon, and others).
 
-Skills:  JS / HTML / CSS/bootstrap 
+Skills:  JS / HTML / CSS/bootstrap / react/ mongo db/ express js.
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript  
