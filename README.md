@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm mahedi imun
 #### web developer 
-![web developer ](https://www.linkedin.com/in/mahedi-imun-534723223/overlay/background-image/)
+![web developer ](https://twitter.com/mahedi__anik/header_photo)
 
  Full Stack Web Developer 
 I have 2 years of experience in web development. I can do:
