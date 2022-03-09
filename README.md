@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm mahedi imun
 #### web developer 
 ![web developer ](https://drive.google.com/file/d/1RhfEqL5YTfdWinjiBYTMMfHeoUL_57zr/view?usp=sharing)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
  Full Stack Web Developer 
 I have 2 years of experience in web development. I can do:
