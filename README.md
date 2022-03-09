@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm mahedi imun
 #### web developer 
 
-![web developer ](https://redesignurweb.com/wp-content/uploads/2019/07/web-design-redesignurwebdotcom.gif)
+![web developer ](https://www.mygo.ge/uploads/blog/1584023795.jpg)
 
  Full Stack Web Developer 
 I have 2 years of experience in web development. I can do:
