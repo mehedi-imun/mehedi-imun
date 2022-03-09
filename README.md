@@ -1,5 +1,5 @@
-# Hi there 👋, I'm mahedi imun
-#### web developer 
+#3 Hi there 👋, I'm mahedi imun
+### junior web developer 
 
 ![web developer ](https://www.mygo.ge/uploads/blog/1584023795.jpg)
 
