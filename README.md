@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm mahedi imun
 #### web developer 
 <head>
-  <title>Title</title>
   <meta property="og:image" content="https://drive.google.com/file/d/1RhfEqL5YTfdWinjiBYTMMfHeoUL_57zr/view?usp=sharing" />
 </head>
  Full Stack Web Developer 
