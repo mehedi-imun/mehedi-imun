@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm mahedi imun
 ### junior web developer 
 
-![web developer ](https://www.dropbox.com/s/482xhi7imrb1tzl/1584023795%20%282%29.gif?dl=0)
+![web developer ](https://www.mygo.ge/uploads/blog/1584023795.jpg)
 
  Full Stack Web Developer 
 I have 2 years of experience in web development. I can do:
