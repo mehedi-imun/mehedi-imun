@@ -4,12 +4,6 @@
 ![web developer ](https://www.mygo.ge/uploads/blog/1584023795.jpg)
 
  Full Stack Web Developer 
-I have 2 years of experience in web development. I can do:
- -    Admin panels, dashboards, CRMs, and other cloud apps for business.
- -    Modern single page applications with server-side rendering, Rest APIs
- -    API integration: Instagram / Twitter / Twilio / Gmail / Google Sheets / Google Drive / cryptocurrency APIs
-- Chat bots: Telegram / Discord / Web Widgets
- -    Web scraping and data mining: creating fast and multi-threaded/asynchronous crawlers that parse emails(Gmail, Yahoo) and sites (Amazon, and others).
 
 Skills:  JS / HTML / CSS/bootstrap / react/ mongo db/ express js.
 
