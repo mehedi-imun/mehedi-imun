@@ -5,7 +5,7 @@
 
  Full Stack Web Developer 
 
-Skills:  JS / HTML / CSS/bootstrap / react/ mongo db/ express js.
+Skills:  JS / HTML / CSS/bootstrap / react/ mongo db/ express js./node.js
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript  
