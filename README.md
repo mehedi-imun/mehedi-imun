@@ -41,6 +41,4 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/mahedi-imun)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahedi-imun)  
-
-![Profile views](https://gpvc.arturio.dev/mahedi-imun)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahedi-imun)
