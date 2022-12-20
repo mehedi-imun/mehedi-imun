@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Mahedi</h1>
+<h1 align="center">Hi 👋, I'm Mehedi</h1>
 <h3 align="center">A passionate junior web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahedi-imun&label=Profile%20views&color=0e75b6&style=flat" alt="mahedi-imun" /> </p>
