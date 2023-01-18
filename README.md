@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mehedi</h1>
 <h3 align="center">A passionate junior web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahedi-imun&label=Profile%20views&color=0e75b6&style=flat" alt="mahedi-imun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-imun&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-imun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahedi-imun" alt="mahedi-imun" /></a> </p>
 
