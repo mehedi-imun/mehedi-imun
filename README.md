@@ -6,7 +6,7 @@
 # 💫 About Me:
 🔭 I’m currently working on ProCorp<br>👯 I’m looking to collaborate on *GitHub*<br>🤝 I’m looking for help with open source contributions <br>🌱 I’m currently learning *Data Structures*, *Algorithms*, *OOP & Database*, *Cloud Computing / AWS* <br>💬 Ask me about: Web development <br>
 
-
+[![](https://visitcount.itsvg.in/api?id=mehedi-imun&label=Profile%20Views&color=1&icon=7&pretty=true)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mehediimun) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mehedi_imun/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-imun/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17533461) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mehediimun) 
 
