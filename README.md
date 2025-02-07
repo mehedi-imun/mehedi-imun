@@ -2,55 +2,63 @@
 
 # Hi, I'm Mehedi Imun! 
 
-I'm a web developer and web instructor at Programming Hero.
+I'm a **Senior Web Instructor** at Programming Hero, specializing in **web development** and **DevOps**.
 
-I am a passionate web instructor at Programming Hero, specializing in web development technologies such as Typescript, Express, Mongoose, Rest API, Redux, React, RTK Query, Testing, GraphQL, Deployment, PostgreSQL, Next.js, and Docker. With a commitment to providing exceptional education and support to students, I play a vital role in their journey to becoming skilled web developers.
-As a web instructor at Programming Hero, I deliver engaging and informative lessons while providing personalized feedback and support to students. Collaborating with colleagues, I continuously enhance our curriculum and teaching methodologies to ensure students are prepared for the dynamic field of web development.
+I teach **TypeScript, React, Next.js, Redux, RTK Query, Node.js, Express, Mongoose, REST API, GraphQL, PostgreSQL, Docker, and CI/CD**. I also focus on **DevOps, cloud computing, and automation** to help students build scalable applications.
 
-<h2 align="center">My Online Presence</h2>
+## 🌍 My Online Presence
 
-<div align="center">
+<p align="center">
+<a href="https://web.facebook.com/mehediimun/"><img src="https://img.shields.io/badge/-Facebook-FF914D?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.instagram.com/mehedi_imun/"><img src="https://img.shields.io/badge/-Instagram-FF914D?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/mehedi-imun/"><img src="https://img.shields.io/badge/-LinkedIn-FF914D?style=for-the-badge&logo=linkedin"></a>
+<a href="https://x.com/mehediimun"><img src="https://img.shields.io/badge/-Twitter(X)-FF914D?style=for-the-badge&logo=x"></a>
+</p>
 
-[![](https://img.shields.io/badge/-facebook-FF914D?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/mehediimun/)
-[![](https://img.shields.io/badge/-instagram-FF914D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mehedi_imun/)
-[![](https://img.shields.io/badge/-linkedin-FF914D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-imun/)
+## 🛠 My Techs & Tools
 
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/-JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=000000&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=336791&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=2496ED&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-Kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=326CE5&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-AWS-FFFFFF?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-Terraform-FFFFFF?style=for-the-badge&logo=terraform&logoColor=623CE4&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-Jenkins-FFFFFF?style=for-the-badge&logo=jenkins&logoColor=D24939&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-CI/CD-FFFFFF?style=for-the-badge&logo=github-actions&logoColor=2088FF&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-Ansible-FFFFFF?style=for-the-badge&logo=ansible&logoColor=EE0000&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-Maven-FFFFFF?style=for-the-badge&logo=apache-maven&logoColor=C71A36&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-Bash-FFFFFF?style=for-the-badge&logo=gnubash&logoColor=4EAA25&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-Go-FFFFFF?style=for-the-badge&logo=go&logoColor=00ADD8&border=FF914D" height="40">
+<img src="https://img.shields.io/badge/-C++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&border=FF914D" height="40">
+</p>
 
-<h2 align="center">My Techs & Tools</h2>
+## 📊 My GitHub Stats
 
-<div align="center">
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehedi-imun&count_private=true&show_icons=true&bg_color=333333&title_color=FF914D&icon_color=FF914D&text_color=dddddd">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-imun&show_icons=true&bg_color=333333&title_color=FF914D&icon_color=FF914D&text_color=dddddd&layout=compact&langs_count=6">
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FF914D?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-FF914D?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-FF914D?style=flat&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-FF914D?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-FF914D?style=flat&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-FF914D?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-FF914D?style=flat&logo=visual-studio-code&logoColor=white)
+## 🚀 My Projects
 
-</div>
+<p align="center">
+<a href="https://github.com/mehedi-imun/nuxt-social-share">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mehedi-imun&repo=nuxt-social-share&bg_color=333333&title_color=FF914D&icon_color=FF914D&text_color=dddddd">
+</a>
+</p>
 
-<h2 align="center">My GitHub Stats</h2>
+## 🎯 My Contributions
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehedi-imun&count_private=true&show_icons=true&bg_color=333333&title_color=FF914D&icon_color=FF914D&text_color=dddddd" alt="Mehedi Imun's GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-imun&show_icons=true&bg_color=333333&title_color=FF914D&icon_color=FF914D&text_color=dddddd&layout=compact&langs_count=6" alt="Mehedi Imun's Top Languages">
-</div>
-
-<h2 align="center">My Projects</h2>
-
-<div align="center">
-
-[![Nuxt Social Share](https://github-readme-stats.vercel.app/api/pin/?username=mehedi-imun&repo=nuxt-social-share&bg_color=333333&title_color=FF914D&icon_color=FF914D&text_color=dddddd)](https://github.com/mehedi-imun/nuxt-social-share)
-
-</div>
-
-<h2 align="center">My Contributions</h2>
-
-<div align="center">
-
-[![Midnight Themes Theme](https://github-readme-stats.vercel.app/api/pin/?username=mehedi-imun&repo=MidnightThemesVsCode&bg_color=333333&title_color=FF914D&icon_color=FF914D&text_color=dddddd)](https://github.com/mehedi-imun/MidnightThemesVsCode)
-
-
-</div>
+<p align="center">
+<a href="https://github.com/mehedi-imun/MidnightThemesVsCode">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mehedi-imun&repo=MidnightThemesVsCode&bg_color=333333&title_color=FF914D&icon_color=FF914D&text_color=dddddd">
+</a>
+</p>
