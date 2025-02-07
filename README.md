@@ -2,9 +2,9 @@
 
 # Hi, I'm Mehedi Imun! 
 
-I'm a **Senior Web Instructor** at Programming Hero, specializing in **web development** and **DevOps**.
+I am a Senior Web Instructor passionate about teaching web development. My expertise includes TypeScript, React, Next.js, Redux, RTK Query, Node.js, Express, Mongoose, REST API, GraphQL, PostgreSQL, and more. I am dedicated to helping students build scalable, high-quality applications by teaching them modern technologies and best practices in the industry.
 
-I teach **TypeScript, React, Next.js, Redux, RTK Query, Node.js, Express, Mongoose, REST API, GraphQL, PostgreSQL, Docker, and CI/CD**. I also focus on **DevOps, cloud computing, and automation** to help students build scalable applications.
+Alongside my teaching career, I am on a personal journey to advance my skills as a software engineer. I am actively learning DevOps, cloud computing, automation, and system design to expand my technical abilities and contribute to building robust and efficient systems.
 
 ## 🌍 My Online Presence
 
